@@ -1,0 +1,20 @@
+.paras {
+    background-color: rgba(255, 0, 0, 0.429);
+}
+#one {
+    color: blue;
+    font-size: 32px;
+}
+#two {
+    background-color: rgba(28, 254, 28, 0.58);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#one, #two {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#para2{
+    font-size: 22px;
+}
