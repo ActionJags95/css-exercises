@@ -1,0 +1,13 @@
+.but, .nobut{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.but {
+    color: white;
+    background-color: black;
+}
+
+.nobut {
+    background-color: yellow    ;
+}
